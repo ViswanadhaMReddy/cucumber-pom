@@ -1,4 +1,4 @@
-package com.ndt.stepDefinations.qa;
+package com.stepDefinations.qa;
 
 public class flightfinderSteps {
 

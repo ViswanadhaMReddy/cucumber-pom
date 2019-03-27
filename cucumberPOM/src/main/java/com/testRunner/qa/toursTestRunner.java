@@ -1,4 +1,4 @@
-package com.ntd.testRunner.qa;
+package com.testRunner.qa;
 
 import org.junit.runner.RunWith;
 

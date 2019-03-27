@@ -1,4 +1,4 @@
-package com.ndt.base.qa;
+package com.base.qa;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.ndt.util.qa.TestUtil;
+import com.util.qa.TestUtil;
 
 public class testbase {
 

@@ -1,4 +1,4 @@
-Feature= new tours demo application test 
+Feature = new tours demo application test 
 
 Scenario: validate login new tours demo 
           

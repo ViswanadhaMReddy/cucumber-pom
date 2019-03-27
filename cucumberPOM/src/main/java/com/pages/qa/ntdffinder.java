@@ -1,11 +1,11 @@
-package com.ntd.pages.qa;
+package com.pages.qa;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.ndt.base.qa.testbase;
+import com.base.qa.testbase;
 
 public class ntdffinder extends testbase {
 

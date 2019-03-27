@@ -1,4 +1,4 @@
-package com.ndt.util.qa;
+package com.util.qa;
 
 public class TestUtil {
 
